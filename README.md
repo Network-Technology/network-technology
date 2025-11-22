@@ -51,12 +51,6 @@ Public releases will be available in this GitHub organization.
 
 ---
 
-
-
-Full list (public): https://ntg.bg/partners
-
----
-
 ## 📞 Contact Us
 **Website:** https://ntg.bg  
 **Email:** office@ntg.bg  
